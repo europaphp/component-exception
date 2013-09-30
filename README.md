@@ -1,0 +1,4 @@
+exception
+=========
+
+Exception component.

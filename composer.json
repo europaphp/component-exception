@@ -1,5 +1,5 @@
 {
-  "name": "europaphp/exception",
+  "name": "europaphp/component-exception",
   "description": "EuropaPHP exception component.",
   "keywords": ["mvc", "view", "controller", "fast", "scalable", "simple", "module", "modular"],
   "license": "MIT",
